@@ -1,0 +1,21 @@
+{
+  "name": "@ahdcreative/tailwindcss-ahdpress",
+  "version": "1.0.0",
+  "description": "Tailwind plugin for AHDPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahdcreative/tailwindcss-ahdpress.git"
+  },
+  "private": false,
+  "author": "Luca",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
